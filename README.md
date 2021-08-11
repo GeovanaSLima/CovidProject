@@ -1,7 +1,12 @@
 # Project Covid-19
 Estudo criado para desenvolvimento de habilidades em análise e manipulação de dados.
 
+
 <p align="center"><img src="https://github.com/GeovanaSLima/CovidProject/blob/main/Covid1.png"></p>
+
+[Clique aqui](https://github.com/GeovanaSLima/CovidProject/blob/main/Estudo_sobre_o_COVID.ipynb) para ir ao *notebook* do projeto.
+
+<br>
 
 
 # Dados sobre o COVID-19
