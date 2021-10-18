@@ -4,7 +4,9 @@ Estudo criado para desenvolvimento de habilidades em análise e manipulação de
 
 <p align="center"><img src="https://github.com/GeovanaSLima/CovidProject/blob/main/Covid1.png"></p>
 
-[Clique aqui](https://github.com/GeovanaSLima/CovidProject/blob/main/Estudo_sobre_o_COVID.ipynb) para ir ao *notebook* do projeto.
+[Clique aqui](https://github.com/GeovanaSLima/CovidProject/blob/main/Estudo_sobre_o_COVID.ipynb) para ir ao *notebook* do projeto. 
+
+[Clique aqui](https://www.learningdata.dev/post/estudo-sobre-o-covid19) para ir ao artigo do projeto.
 
 <br>
 
